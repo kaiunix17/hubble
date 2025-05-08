@@ -1,1 +1,3 @@
-salom 
+
+if else elif 
+
